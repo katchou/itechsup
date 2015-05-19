@@ -1,0 +1,17 @@
+<ul>
+{% for uv in uvs %}
+	<li>{{ uv.name }}</li>
+	<ul>
+	{% for ue in uv.ues %}
+		<li>{{ ue.name }}</li>
+		<ul>
+		{% for item in ue.items %}
+			<li>{{ item.name }}</li>
+		{% else %}
+			<li style="color:red">NO ITEM</li>
+		{% endfor %}
+		</ul>
+	{% endfor %}
+	</ul>
+{% endfor %}
+</ul>

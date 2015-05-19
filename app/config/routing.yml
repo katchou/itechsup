@@ -1,0 +1,4 @@
+itech_sup_referentiel:
+    resource: "@ItechSupReferentielBundle/Controller/"
+    type:     annotation
+    prefix:   /

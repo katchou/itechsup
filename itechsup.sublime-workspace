@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ItechSup/Bundle/ReferentielBundle/ItechSupReferentielBundle.php",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//SV-FORMATION/Enseignants/JFjung/Documents/dev/itechsup",
+		"//SV-FORMATION/Enseignants/JFjung/Documents/dev/itechsup/src",
+		"//SV-FORMATION/Enseignants/JFjung/Documents/dev/itechsup/src/ItechSup",
+		"//SV-FORMATION/Enseignants/JFjung/Documents/dev/itechsup/src/ItechSup/Bundle",
+		"//SV-FORMATION/Enseignants/JFjung/Documents/dev/itechsup/src/ItechSup/Bundle/ReferentielBundle"
+	],
+	"file_history":
+	[
+		"/C/dev/Itechsup/src/AppBundle/Entity/Entreprise.php",
+		"/C/dev/Itechsup/src/AppBundle/Controller/DefaultController.php",
+		"/C/dev/Itechsup/app/Resources/views/default/new.html.twig",
+		"/C/dev/Itechsup/src/AppBundle/Entity/Task.php",
+		"/C/php/php.ini",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/gui.py",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/config.ini",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/tk_ui.py",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/controller.py",
+		"/V/TCD/données.csv",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/storage_manager.py",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/sqlite.py",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/ui_manager.py",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/launcher.py",
+		"/C/Users/jfjung/Desktop/TP_Pyton-tk/text.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"timerone",
+			"attach"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ItechSup/Bundle/ReferentielBundle/ItechSupReferentielBundle.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "itechsup.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
